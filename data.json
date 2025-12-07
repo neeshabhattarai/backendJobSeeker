@@ -53,6 +53,7 @@
     "title": "Senior Backend Engineer",
     "company": "Fox",
     "location": "Hong Kong",
+    "image":"fox.png",
     "salary": "$3,500",
     "work":["On Site","PHP","Part Time"],
     "category": "Sales/Marketing",
